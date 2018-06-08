@@ -1,4 +1,26 @@
 /*Navbar styling*/
 .navbar{
     background-color: #8A84E2;
+
+}
+
+h1, h2, h3,{
+    font-family: Georgia;
+}
+h1{
+    font-size:30px;
+}
+h2{
+    font-size: 20px;
+}
+h3{
+    font-size: 10px;   
+}
+p, ol, ul{
+    font-size: 16px;
+    font-family: calibri;
+}
+section{
+    padding: 10px;
+
 }
